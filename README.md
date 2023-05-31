@@ -1,8 +1,8 @@
-# Hi 👋, I'm OneLostCat
+# Hi 👋, Nice to meet you!
 
-<img align="right" alt="GIF" src="https://www.lostcat.cc/file/image/github_homepage/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://www.lostcat.cc/file/image/github_homepage/pusheencode.gif"  width="50%" height="auto" />
 
-### Nice to meet you ! 🐱
+### I'm OneLostCat 🐱
 - 🔭 A computer enthusiast & Special developer from China.
 - 🌱 Currently studying in Wuhan, China.
 - 📫 You can contact me here 👉 [OneLostCat@outlook.com](mailto:OneLostCat@outlook.com)
@@ -10,6 +10,7 @@
 - ⚡ Fun fact: Chicken you're so beautiful!
 
 ### 🛠 Tech Stack
+<img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/cs-logo.svg" style="padding: 5px 5px 5px 5px; width:60px; height:60px;" /><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/cpp-logo.svg" style="padding: 5px 5px 5px 5px; width:60px; height:60px;" /><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/html5-logo.svg" style="padding: 5px 5px 5px 5px; width:60px; height:60px;"/><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/css3-logo.svg" style="padding: 5px 5px 5px 5px; width:60px; height:60px;"/><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/js-logo.svg" style="padding: 5px 5px 5px 5px; width:60px; height:60px;"/>
 
 <!--
 **OneLostCat/OneLostCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
