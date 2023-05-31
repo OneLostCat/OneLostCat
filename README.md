@@ -1,5 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm OneLostCat</h1>
+<h3 align="center">A special developer from China 🐱</h3>
 
+### Languages and Tools:
+<img src="https://lostcat.cc:1443/file/image/github_homepage/CSharp-logo.svg" alt="C#" width="80px" height="80px"/><img src="https://lostcat.cc:1443/file/image/github_homepage/CPP-logo.svg" alt="C#" width="80px" height="80px"/><img src="https://lostcat.cc:1443/file/image/github_homepage/CSharp-logo.svg" alt="C#" width="80px" height="80px"/>
 <!--
 **OneLostCat/OneLostCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
