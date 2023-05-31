@@ -10,6 +10,7 @@
 - ⚡ Fun fact: Chicken you're so beautiful!
 
 ### 🛠 Tech Stack
+<div style="width:60px; height:60px; background-color: rgb(0,0,0)"></div>
 <img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/cs-logo.svg" style="padding: 5px 5px 5px 5px; width:60px; height:60px;" /><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/cpp-logo.svg" style="padding: 5px 5px 5px 5px; width:60px; height:60px;" /><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/html5-logo.svg" style="padding: 5px 5px 5px 5px; width:60px; height:60px;"/><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/css3-logo.svg" style="padding: 5px 5px 5px 5px; width:60px; height:60px;"/><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/js-logo.svg" style="padding: 5px 5px 5px 5px; width:60px; height:60px;"/>
 
 <!--
