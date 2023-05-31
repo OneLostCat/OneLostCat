@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm OneLostCat</h1>
-<h3 align="center">A special developer from China 🐱</h3>
-
-### Languages and Tools:
-<style type="text/css" rel="stylesheet">
-.logo {
-  width="80px";
-  height="80px";
-}
-</style>
+# Hi 👋, I'm OneLostCat
 
 <img align="right" alt="GIF" src="https://www.lostcat.cc/file/image/github_homepage/pusheencode.gif" />
 
-<img src="https://lostcat.cc:1443/file/image/github_homepage/cs-logo.svg" alt="C#" width="80px" height="80px"/><img src="https://lostcat.cc:1443/file/image/github_homepage/cpp-logo.svg" alt="C++" width="80px" height="80px"/><img src="https://lostcat.cc:1443/file/image/github_homepage/html5-logo.svg" alt="HTML" width="80px" height="80px"/><img src="https://lostcat.cc:1443/file/image/github_homepage/css3-logo.svg" alt="CSS" width="80px" height="80px"/><img src="https://lostcat.cc:1443/file/image/github_homepage/js-logo.svg" alt="JavaScript" width="80px" height="80px"/>
+### Nice to meet you ! 🐱
+- A computer enthusiast & Special developer from China.
+- 🌱 Currently studying in Wuhan, China.
+- 💬 You can contact me here 👉 [OneLostCat@outlook.com](mailto:OneLostCat@outlook.com)
+- ⭐ You may like [👉iKun👈](https://www.lostcat.cc/file/video/蔡徐坤.mp4)
+- ⚡ Fun fact: Chicken you're so beautiful!
+
+### 🛠 Tech Stack
+
 <!--
 **OneLostCat/OneLostCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
