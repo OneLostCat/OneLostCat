@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://www.lostcat.cc/file/image/github_homepage/pusheencode.gif"  width="50%" height="auto" />
 
-### 🐱 I'm OneLostCat
+### I'm OneLostCat 🐱
 - 🔭 A computer enthusiast & Special developer from China.
 - 🌱 Currently studying in Wuhan, China.
 - 📫 You can contact me here 👉 [OneLostCat@outlook.com](mailto:OneLostCat@outlook.com)
