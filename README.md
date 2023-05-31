@@ -3,9 +3,9 @@
 <img align="right" alt="GIF" src="https://www.lostcat.cc/file/image/github_homepage/pusheencode.gif" />
 
 ### Nice to meet you ! 🐱
-- A computer enthusiast & Special developer from China.
+- 🔭 A computer enthusiast & Special developer from China.
 - 🌱 Currently studying in Wuhan, China.
-- 💬 You can contact me here 👉 [OneLostCat@outlook.com](mailto:OneLostCat@outlook.com)
+- 📫 You can contact me here 👉 [OneLostCat@outlook.com](mailto:OneLostCat@outlook.com)
 - ⭐ You may like [👉iKun👈](https://www.lostcat.cc/file/video/蔡徐坤.mp4)
 - ⚡ Fun fact: Chicken you're so beautiful!
 
