@@ -1,6 +1,6 @@
 # Hi 👋, Nice to meet you!
 
-<img align="right" alt="GIF" src="https://www.lostcat.cc/file/image/github_homepage/pusheencode.gif"  width="45%" height="auto" />
+<img align="right" alt="GIF" src="https://www.lostcat.cc/file/image/github_homepage/pusheencode.gif"  width="50%" height="auto" />
 
 ### I'm OneLostCat 🐱
 - 🔭 A computer enthusiast & Special developer from China.
