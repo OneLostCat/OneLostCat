@@ -10,8 +10,11 @@
 - ⚡ Fun fact: Chicken you're so beautiful!
 
 ### 🛠 Tech Stack
-<img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/cs-logo.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;" /><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/cpp-logo.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;" /><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/html5-logo.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;"/><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/css3-logo.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;"/><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/js-logo.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;"/>
-
+<a href="https://dotnet.microsoft.com/"><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/cs-logo.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;" /></a>
+<a href="https://isocpp.org/"><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/cpp-logo.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/html5-logo.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/css3-logo.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="C#" src="https://www.lostcat.cc/file/image/github_homepage/js-logo.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;"/></a>
 <!--
 **OneLostCat/OneLostCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,5 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/K-Kraken.md
+https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/JoeyBling.md
 -->
