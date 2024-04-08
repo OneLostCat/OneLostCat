@@ -12,7 +12,7 @@
 ### 🛠 Tech Stack
 <a href="https://dotnet.microsoft.com/"><img alt="C#" src="https://raw.githubusercontent.com/OneLostCat/OneLostCat/main/images/logo/cs.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;" /></a>
 <a href="https://isocpp.org/"><img alt="C++" src="https://raw.githubusercontent.com/OneLostCat/OneLostCat/main/images/logo/cpp.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img alt="HTML5" src="(https://raw.githubusercontent.com/OneLostCat/OneLostCat/main/images/logo/html5.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;"/></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img alt="HTML5" src="https://raw.githubusercontent.com/OneLostCat/OneLostCat/main/images/logo/html5.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;"/></a>
 <a href="https://www.w3.org/Style/CSS/"><img alt="CSS3" src="https://raw.githubusercontent.com/OneLostCat/OneLostCat/main/images/logo/css3.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://raw.githubusercontent.com/OneLostCat/OneLostCat/main/images/logo/js.svg" style="padding: 5px 5px 5px 5px; width:65px; height:60px;"/></a>
 <!--
