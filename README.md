@@ -6,7 +6,7 @@
 - 🔭 A computer enthusiast & Special developer from China.
 - 🌱 Currently studying in Wuhan, China.
 - 📫 You can contact me here 👉 [OneLostCat@outlook.com](mailto:OneLostCat@outlook.com)
-- ⭐ You may like [👉iKun👈](https://www.lostcat.cc/file/video/蔡徐坤.mp4)
+- ⭐ You may like [👉iKun👈](https://lostcat.cc/file/video/蔡徐坤.mp4)
 - ⚡ Fun fact: Chicken you're so beautiful!
 
 ### 🛠 Tech Stack
